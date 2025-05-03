@@ -28,7 +28,8 @@ I'm looking for opportunities in:
 ## 📫 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arash-amd-ece)
 - ✉️ Email: arash.amd.ece@gmail.com
-- 🌍 Open to relocation | 🇨🇦 Montreal & Ottawa, Canada
+- 🌍 Open to relocation
+- 📍 Montreal & Ottawa, Canada
 
 ---
 
