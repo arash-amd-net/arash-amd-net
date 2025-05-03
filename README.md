@@ -15,7 +15,7 @@ I'm currently a **research assistant at École de technologie supérieure (ETS)*
 ## 🔍 What I'm Working On
 - 📡 **Machine Learning for Wireless**: Developing deep learning models to predict indoor RF propagation using BIM plans
 - 🏗 **Cloud & Network Automation**: Exploring cloud-native solutions for 5G core networks and network function automation
-- 📜 **Research & Publications**: Published multiple papers in **wireless communication and signal processing**. **Primary author** of an accepted paper at **IEEE Radio & Wireless Week (RWW) 2025**
+- 📜 **Research & Publications**: Published multiple papers in **wireless communication and signal processing**. **Primary author** of two accepted papers at **IEEE Radio & Wireless Week (RWW)**
 
 ## 💼 Career Interests
 I'm looking for opportunities in:
